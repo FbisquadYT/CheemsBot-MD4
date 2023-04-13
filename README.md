@@ -2,7 +2,7 @@
 
 <h1 align="center">⚜️Killua ᗷOT⚜️<br></h1>
 <p align="center">
-<img src="https://j.top4top.io/p_26596ml9e1.jpg" alt="animated" width="540" height="280" />
+<img src="https://j.top4top.io/p_26596ml9e1.jpg" alt="animated" width="500" height="280" />
 </p>
 
 <p align="center">
